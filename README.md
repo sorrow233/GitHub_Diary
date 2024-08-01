@@ -6,6 +6,12 @@ Star，93项目
 
 <br><br>
 
+### 8月1号
+&emsp;&emsp; **日语考试**6月在准备7月的日语考，考完之后放松了半周，之后买了MacBook Air，把显示器卖了，生活可谓大变，可其实根本还是没啥改变，继续我那爱折腾代码的日子
+&emsp;&emsp; 图片下载[dezoomify-rs](https://github.com/lovasoa/dezoomify-rs.git)，可以直接下载Google Art上面的高清照片，安装使用都很方便
+<img src="https://github.com/sorrow233/picx-images-hosting/raw/master/Github/image.7p76s8ait.webp" alt="image" style="zoom:50%;" />
+
+
 ### 5月29-31日
 
 &emsp;&emsp;29号头晕目眩，一看电脑大脑就像有淤泥在其中翻涌。30、31号玩英雄联盟未玩GitHub
