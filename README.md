@@ -14,6 +14,8 @@
 ### 9月1号
 
 &emsp;&emsp;**新搭建了一个图床**：之前使用的是GitHub当图床，也能用，但今天在linux.do社区看到了一个新的项目，可以用自己的域名托管上去，并且有cloud flare加速。上次的图床只能说功能没问题，但现在这个图床我很喜欢。地址是pic.k-on.live（设置了强密码,只能自己用hhhh）
+该项目开源仓库：https://github.com/MarSeventh/CloudFlare-ImgBed.git
+配置教程：https://www.yunsen2025.top/archives/265
 
 ![image.png](https://pic.k-on.live/file/58cd966ba61afc0bd94e4.png)
 
